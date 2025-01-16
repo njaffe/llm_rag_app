@@ -1,0 +1,69 @@
+Noah Jaffe
+Location: San Francisco, CA
+Profile: linkedin.com/in/noah-h-jaffe/
+Email: noah.h.jaffe@gmail.com
+Phone: (415) 686-6967
+
+SUMMARY
+
+AI Engineer and Data Scientist with 3+ years of experience designing and deploying LLM-powered applications and machine learning models; specialize in creating custom AI solutions, leveraging big data pipelines, extracting data-driven insights, and using cloud technologies to drive efficiency and profitability.
+
+
+SKILLS
+
+Data Science
+	•	Machine Learning Model Development
+	•	Algorithm Design & Coding
+	•	Linear Regression, KNN/Logistic/Bayesian Classification
+	•	Data Mining/Cleansing/Modeling
+	•	Feature Engineering, ETL pipelines
+	•	Large Language Models (LLMs), APIs
+
+Technologies
+	•	Python (NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, PySpark)
+	•	SQL, PostgreSQL, NLTK, Spacy
+	•	Tableau, Streamlit
+	•	AWS (Sagemaker, Athena, S3)
+	•	GCP (Vertex AI, Bigquery, cloud storage)
+	•	Airflow, Streaming (Spark)
+	•	Flask, Docker, Django
+	•	Vector Databases, Elasticsearch
+
+Leadership
+	•	Cross-team collaboration
+	•	Technical/non-technical presentations
+
+EXPERIENCE
+
+Generative AI Engineer
+early-stage startup
+Oct 2024 - Nov 2024
+	•	Built an LLM-powered chatbot for B2B intelligence using RAG (ElasticSearch, vector DB) for tech clients.
+	•	Leveraged Python and LLM APIs to deliver precise, context-aware responses from internal data.
+
+Generative AI Engineer
+1mind
+Jun 2024 - Oct 2024
+	•	Designed LLM applications to convert raw data into “knowledge entries” for custom AI solutions, tailored to client needs.
+	•	Built scalable pipelines to process large data volumes across diverse media, deploying on cloud for seamless client integration.
+	•	Created a Python API (Flask) for automated lead and account creation in HubSpot and Salesforce, streamlining CRM workflows for B2B customer success.
+
+Data Scientist
+Levi Strauss & Co.
+Feb 2021 - Apr 2024
+	•	Designed, developed, and deployed machine learning models to optimize pricing, multi-channel promotion, and customer conversion strategies both online and in-store.
+	•	Built and delivered an intelligent revenue prediction model to determine the locations for prospective new brick-and-mortar stores, generating $10M in potential AR.
+	•	Created a machine learning model used to personalize non-profit email campaigns, increasing annual donations to the Red Tab Foundation by 10% to $2.2M.
+	•	Built and tested a churn prediction machine learning model based on customer email activity, generating an additional $800K AR.
+	•	Increased the accuracy of delivery date predictions by 25% and customer checkout rates by creating a statistical heuristic based on zip-code and integrating a 3rd-party historical transit dataset.
+	•	Generated $2M AR by developing data visualizations for omnichannel markdowns and promotional calendars to optimize sell-out rate and gross margin.
+	•	Led quality assurance and validation to automate ETL pipelines, processing hundreds of millions of rows of inventory, sales, and traffic recordings of retail transactions.
+	•	Authored comprehensive technical documentation for machine learning models, statistical methodologies, ETL pipelines, and data visualization tools, ensuring clarity and usability for both technical and non-technical stakeholders.
+	•	Championed a data-driven culture across the organization and strengthened the bridge between the data science and engineering teams through hands-on collaboration and mentorship.
+
+EDUCATION
+
+	•	Master of Science in Marine Biology, San Francisco State University
+	•	Bachelor of Arts in Organismal Biology, Pitzer College
+	•	Data Science & Analytics Certification, Metis
+	•	Data Science & Analytics Certification, Launchpad
