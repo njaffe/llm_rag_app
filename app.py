@@ -114,13 +114,12 @@ def ask_question():
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0', port=6000)
 
-# curl -X POST http://0.0.0.0:6000/ask -H "Content-Type: application/json" -d '{"query": "What is Noahs work experience with Levis?"}'
-
 # lsof -i :6000
 # kill -9 PID
 # gunicorn -w 4 -b 0.0.0.0:6000 app:app &
 # http://34.71.193.4:6000/app
 
+# curl -X POST http://0.0.0.0:6000/ask -H "Content-Type: application/json" -d '{"query": "What is Noahs work experience with Levis?"}'
 
 # gunicorn -w 4 -k gevent --worker-connections 100 -t 600 -b 0.0.0.0:6000 app:app & #dont use this one
 
